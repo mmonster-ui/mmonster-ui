@@ -199,7 +199,7 @@ let jsonObject = window.json || {
         title: "Hello ~~people~~ world :wave:",
         description: "You can use [links](https://discord.com) or emojis :smile: 😎\n```\nAnd also code blocks\n```",
         color: 0x41f097,
-        timestamp: new Date().toISOString(),
+        timestamp: "",
         url: "https://discord.com",
         author: {
             name: "Mmonster hot offers",
